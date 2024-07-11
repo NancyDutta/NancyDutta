@@ -1,5 +1,4 @@
 -Hi there, I'm Nancy Dutta. 👋
-😄 Pronouns: She/Her .
 
 
 -I'm a passionate Full Stack Developer with a strong foundation in creating dynamic and user-friendly websites. With a solid background in Data Structures and Algorithms using Java, I thrive in building scalable and efficient web applications.
