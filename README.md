@@ -1,6 +1,6 @@
 -Hi there, I'm Nancy Dutta. 👋
- 😄 Pronouns: She/Her
-I'm a passionate Full Stack Developer with a strong foundation in creating dynamic and user-friendly websites. With a solid background in Data Structures and Algorithms using Java, I thrive in building scalable and efficient web applications.
+-😄 Pronouns: She/Her
+-I'm a passionate Full Stack Developer with a strong foundation in creating dynamic and user-friendly websites. With a solid background in Data Structures and Algorithms using Java, I thrive in building scalable and efficient web applications.
 
 -🌱 What I'm Learning:
 I'm continuously expanding my knowledge and skills in web development, exploring new frameworks and technologies to stay updated with industry trends.
@@ -9,8 +9,8 @@ I'm continuously expanding my knowledge and skills in web development, exploring
 Graduated from the University College of Engineering and Technology, Hazaribagh, I have honed my skills in both frontend and backend development, with a keen interest in full-stack projects.
 
 - 📫 How to reach me
-  Linkedin - https://www.linkedin.com/in/nancy-dutta-77b89920b/
-  Email    - nancydutta521@gmail.com
+ - Linkedin - https://www.linkedin.com/in/nancy-dutta-77b89920b/
+ - Email    - nancydutta521@gmail.com
 
 📚 Interests:
 Web Development
